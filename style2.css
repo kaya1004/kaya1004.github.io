@@ -1,0 +1,23 @@
+.jumbotron{
+    background-image:url(image/%E8%A9%A9%E7%B6%93%E4%B8%BB%E7%95%AB%E9%9D%A2.jpg);
+    height: 150vh;
+    background-size:cover;
+    text-align: center;
+    color: firebrick;
+    
+}
+
+.jumbotron.container{
+    padding-top: 100px;
+}
+
+.title p{
+    margin-top: 20%;
+    font-size: 90px;
+
+}
+
+.pos{
+    position: absolute;
+    top: 80%;
+}

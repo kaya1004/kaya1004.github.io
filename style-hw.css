@@ -1,0 +1,14 @@
+
+.pos{
+    width: 100%;
+    position: fixed;
+    top:85%;
+    text-align: center;
+    display: inline-block;
+    right:0.5%;
+    font-size: 20px;
+
+}
+.btn{
+    background-color:beige;
+}

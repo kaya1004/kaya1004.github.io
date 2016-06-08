@@ -1,0 +1,38 @@
+/*
+    基本設定
+*/
+
+*{
+    box-sizing: border-box;
+    
+    
+
+}
+
+.container, 
+nav,
+header,
+.thumbnail,
+footer{
+    background-color: azure;
+    border: 1px solid #9096D4;
+    
+}
+nav{
+    width: 100%;
+    height: 100px;
+    background-color:bisque;
+    
+}
+
+header{
+    width: 100%;
+   height: 200px;
+    
+}
+
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
